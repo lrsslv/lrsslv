@@ -11,7 +11,7 @@
   <br>
 
   <details open>
-  <summary><b>:octocat: Mais sobre mim</b></summary>
+  <summary><h3><b>:octocat: Mais sobre mim :octocat:</b></h3></summary>
   <br>
     <p>:purple_heart: Amo <b>programação</b>, <b>música</b>, <b>ler</b> e <b>ver animes</b>.</p>
     <p>:fireworks: Meu objetivo é me tornar uma <b>Desenvolvedora Fullstack</b>.</p>
@@ -20,6 +20,7 @@
     <p>:cherry_blossom: Caso precise me contatar, minhas redes estarão todas na sequência :point_down:.</p>
   </details>
 </div>
+<br>
 
 <h2 align="center">:star: Conecte-se Comigo :star:</h2>
 
@@ -35,7 +36,7 @@
 
 <h2 align="center">:star: Linguagens e Ferramentas :star:</h2>
 
-<details open>
+<details align="center">
 <summary><b>:milky_way: Frontend</b></summary>
 <br>
   
@@ -48,21 +49,21 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 </details>
     
-<details open>
+<details align="center">
 <summary><b>:stars: Backend</b></summary>
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details align="center">
 <summary><b>🗄️ Database</b></summary>
 <br>
 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 </details>
 
-<details open>
+<details align="center">
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
@@ -75,7 +76,7 @@
 
 </div>
 
-<h2 align="center">:star: Mais Sobre mim no GitHub :star:</h2>
+<h2 align="center">:star: Mais sobre mim no GitHub :star:</h2>
 
 <details align="center">
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
