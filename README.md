@@ -1,46 +1,42 @@
 <div align="center"> 
   <img width="750px" src="images/message.gif"/>
 </div>
-<p align="center">Comecei a aprender sobre programação assim que terminei de cursar a faculdade de Letras. Durante todo o tempo que passei na faculdade, me sentia muito frustrada quando pensava em ter que levar aquilo pra área profissional, e me questionava se um dia encontraria algo que me fizesse me sentir sastisfeita quanto à isso. E foi justamente o que consegui encontrar na programação: o sentimento que tenho quando estou estudando sobre isso, é de pura certeza de que é exatamente isso que quero fazer, e cada vez que vejo um código que faço cumprindo sua função, fico mais feliz de ter feito a escolha de dar uma chance pra tudo isso. </p>
 <hr/>
 
-<h2 align="center">:star2: Sobre mim</h2>
+<h2 align="center">:star: Sobre mim :star:</h2>
 <br>
 
-<div>
-  <img align="right" width="280px" src="images/computer.gif"/>
+<div align="center">
+  <p>Sou formada em Letras e comecei a estudar programação logo que terminei a faculdade. Decidi migrar de área pois encontrei na área de desenvolvimento algo que foi sempre muito importante pra mim: o sentimento de certeza de que é exatamente isso que quero ter como profissão e, a cada código feito, fico cada vez mais feliz em ter tomado essa decisão.</p>
+  <br>
 
-  <ul>
-    <li>:purple_heart: Amo <b>programação</b>, <b>música</b>, <b>ler</b> e <b>ver animes</b>.</li>
-    <li>:crystal_ball: Meu objetivo é me tornar uma <b>Desenvolvedora Fullstack</b>.</li>
-    <li>:computer: As linguagens com as quais tenho familiaridade até o momento são: <b>HTML, CSS e JavaScript</b>.</li>
-    <li>:mag_right: Caso queira, vai lá dar uma olhada nos meus projetos do <a href="https://www.frontendmentor.io/profile/lrsslv" target="_blanck">Frontend Mentor</a>.</li>
-    <li>:cherry_blossom: Caso precise me contatar, minhas redes estarão todas na sequência :point_down:.</li>
-  </ul>
+  <details open>
+  <summary><b>:octocat: Mais sobre mim</b></summary>
+  <br>
+    <p>:purple_heart: Amo <b>programação</b>, <b>música</b>, <b>ler</b> e <b>ver animes</b>.</p>
+    <p>:fireworks: Meu objetivo é me tornar uma <b>Desenvolvedora Fullstack</b>.</p>
+    <p>:mag_right: As linguagens com as quais tenho familiaridade até o momento são: <b>HTML, CSS e JavaScript</b>.</p>
+    <p>:crystal_ball: Caso queira, vai lá dar uma olhada nos meus projetos do <a href="https://www.frontendmentor.io/profile/lrsslv" target="_blanck">Frontend Mentor</a>.</p>
+    <p>:cherry_blossom: Caso precise me contatar, minhas redes estarão todas na sequência :point_down:.</p>
+  </details>
 </div>
 
-<div>
-  <a href="https://github.com/lrsslv">
-</div>
-
-<h2 align="center">:star2: Conecte-se Comigo</h2>
+<h2 align="center">:star: Conecte-se Comigo :star:</h2>
 
 <div align = "center">
 
 <a href="https://www.linkedin.com/in/larissa-souza-silva-97b00623a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 [![Gmail: Larissa Souza Silva](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:larissa.sslv13@gmail.com)](mailto:larissa.sslv13@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/lrsslv)](https://www.frontendmentor.io/profile/lrsslv)&nbsp;
-<!-- <a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
- <a href="https://discord.gg/f65nxQt7UV" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;](url) -->
-  
+<a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp; 
 </div>
 
 <div align = "center">
 
-<h2 align="center">:star2: Linguagens e Ferramentas</h2>
+<h2 align="center">:star: Linguagens e Ferramentas :star:</h2>
 
 <details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
+<summary><b>:milky_way: Frontend</b></summary>
 <br>
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -53,7 +49,7 @@
 </details>
     
 <details open>
-<summary><b>🧰 Backend</b></summary>
+<summary><b>:stars: Backend</b></summary>
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
@@ -79,7 +75,7 @@
 
 </div>
 
-<h2 align="center">:star2: Mais Sobre mim no GitHub</h2>
+<h2 align="center">:star: Mais Sobre mim no GitHub :star:</h2>
 
 <details align="center">
 <summary><b>🔥 Estatísticas Sequenciais</b></summary>
