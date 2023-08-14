@@ -1,7 +1,7 @@
 <div align="center"> 
   <img width="750px" src="images/message.gif"/>
 </div>
-<hr/>
+<br>
 
 <h2 align="center">:star: Sobre mim :star:</h2>
 <br>
@@ -31,12 +31,13 @@
 [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/lrsslv)](https://www.frontendmentor.io/profile/lrsslv)&nbsp;
 <a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp; 
 </div>
+<br>
 
 <div align = "center">
 
 <h2 align="center">:star: Linguagens e Ferramentas :star:</h2>
 
-<details align="center">
+<details open>
 <summary><b>:milky_way: Frontend</b></summary>
 <br>
   
@@ -49,21 +50,21 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 </details>
     
-<details align="center">
+<details open>
 <summary><b>:stars: Backend</b></summary>
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 </details>
 
-<details align="center">
+<details open>
 <summary><b>🗄️ Database</b></summary>
 <br>
 
 ![Postgresql](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 </details>
 
-<details align="center">
+<details open>
 <summary><b>💻 Software and Tools</b></summary>
 <br>
 
@@ -75,6 +76,7 @@
 </details>
 
 </div>
+<br>
 
 <h2 align="center">:star: Mais sobre mim no GitHub :star:</h2>
 
