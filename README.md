@@ -29,7 +29,7 @@
 <a href="https://www.linkedin.com/in/larissa-souza-silva-97b00623a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 [![Gmail: Larissa Souza Silva](https://img.shields.io/badge/-gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:larissa.sslv13@gmail.com)](mailto:larissa.sslv13@gmail.com)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/FrontendMentor-593D88?style=for-the-badge&logo=frontendmentor&logoColor=white&link=https://www.frontendmentor.io/profile/lrsslv)](https://www.frontendmentor.io/profile/lrsslv)&nbsp;
-<a href="https://instagram.com/victorj.021?igshid=MzNlNGNkZWQ4Mg==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp; 
+
 </div>
 <br>
 
